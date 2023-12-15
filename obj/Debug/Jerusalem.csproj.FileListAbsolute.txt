@@ -1,0 +1,11 @@
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\bin\Debug\Jerusalem.exe.config
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\bin\Debug\Jerusalem.exe
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\bin\Debug\Jerusalem.pdb
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.csproj.AssemblyReference.cache
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.Jerusalem.resources
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.Properties.Resources.resources
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.csproj.GenerateResource.cache
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.csproj.CoreCompileInputs.cache
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.exe
+C:\Users\Lander\source\repos\Jerusalem\Jerusalem\obj\Debug\Jerusalem.pdb
